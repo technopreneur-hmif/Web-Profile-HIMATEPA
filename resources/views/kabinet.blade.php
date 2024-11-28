@@ -8,7 +8,9 @@
     @vite('resources/css/app.css')
 </head>
 
-<body class="bg-[#181818] text-white font-sans">
+<body class="bg-[#060606] text-white font-sans">
+    <x-navbar/>
+    <x-hero title="KABINET" description="Website Resmi Himpunan Mahasiswa Ganasarkara Institut Teknologi Sumatera" />
     <div class="flex justify-center p-6">
         <div class="w-1/4 p-6">
             <ul>
@@ -35,7 +37,7 @@
             <h1 class="text-[39px] font-bold text-[#EDE5CE] mb-4">Kabinet Sahityadhinata</h1>
             <h2 class="text-[25px] text-[#A5A5A5] mb-8">Kesekjenan Utama</h2>
 
-            <div class="grid grid-cols-3 gap-6 bg-[#1F1F1F] rounded-md">
+            <div class="grid grid-cols-3 gap-6 bg-[#161616] rounded-md py-10">
                 <div class="p-6 rounded-lg text-center">
                     <div class="relative">
                         <img src="https://via.placeholder.com/150" alt="Member" class="w-[200px] h-[200px] rounded-full mx-auto mb-4 border-4 border-yellow-500">
