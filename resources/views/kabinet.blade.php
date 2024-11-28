@@ -11,7 +11,7 @@
 <body class="bg-[#060606] text-white font-sans">
     <x-navbar/>
     <x-hero title="KABINET" description="Website Resmi Himpunan Mahasiswa Ganasarkara Institut Teknologi Sumatera" />
-    <div class="flex justify-center p-6">
+    <div class="flex justify-center mx-auto p-6">
         <div class="w-1/4 p-6">
             <ul>
                 <li class="mb-4 text-[25px] text-[#A5A5A5] hover:text-[#EDE5CE] cursor-pointer flex items-center relative hover:border-l-4 hover:border-[#FAC017] pl-2">
@@ -88,5 +88,6 @@
             </div>
         </div>
     </div>
+    <x-footer/>
 </body>
 </html>
