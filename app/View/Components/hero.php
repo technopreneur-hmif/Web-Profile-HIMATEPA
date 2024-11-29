@@ -8,16 +8,22 @@ use Illuminate\View\Component;
 
 class hero extends Component
 {
+
+    public $title;
+    public $description;
     /**
-     * Create a new component instance.
+     * @param string $title
+     * @param string $description
      */
-    public function __construct()
+    public function __construct($title = 'Default Title', $description = 'Default Description')
     {
-        //
+        $this->title = $title;
+        $this->description = $description;
     }
 
     /**
      * Get the view / contents that represent the component.
+     * @return \Illuminate\View\View|string
      */
     public function render(): View|Closure|string
     {

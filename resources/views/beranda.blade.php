@@ -11,7 +11,7 @@
     <div class="relative bg-[#060606]">
       <x-navbar/>
       {{-- HERO --}}
-      <x-hero title="SELAMAT DATANG" description="Website Resmi Himpunan Mahasiswa Ganasarkara Institut Teknologi Sumatera"/>
+      <x-hero title="SELAMAT DATANG" description="Website Resmi Himpunan Mahasiswa Ganasarkara Institut Teknologi Sumatera" />
       {{-- WHO ARE WE --}}
       <div class="font-segoeBold text-[40px] font-black text-[#EDE5CE] h-[512px] px-[87px]">
         <h1>WHO ARE WE ?</h1>
