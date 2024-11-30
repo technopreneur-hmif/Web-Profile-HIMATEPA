@@ -28,6 +28,8 @@ export default {
                 "e-mail": "url('/public/images/ic_baseline-email.png')",
                 "insta-gram": "url('/public/images/lets-icons_insta.png')",
                 "linked-in": "url('/public/images/mdi_linkedin.png')",
+                "gradient-radial-left":
+                    "radial-gradient(circle at left,var(--tw-gradient-stops))",
             },
         },
     },

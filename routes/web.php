@@ -15,3 +15,6 @@ Route::get('/kabinet', function(){
 // });
 
 Route::get('/artikel', [ArticleController::class, 'index']);
+Route::get('/tentang', function(){
+    return view ('tentang');
+});

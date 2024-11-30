@@ -28,7 +28,7 @@
           Pangan ITERA
         </p>
       </div>
-      <div class="flex gap-[56px]">
+      <div class="flex gap-[56px] " id="contact">
         <div class="bg-tik-tok w-[24px] h-[24px] bg-cover bg-center"></div>
         <div class="bg-e-mail w-[24px] h-[24px] bg-cover bg-center"></div>
         <div class="bg-linked-in w-[24px] h-[24px] bg-cover bg-center"></div>

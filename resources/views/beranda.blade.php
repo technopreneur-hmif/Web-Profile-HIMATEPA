@@ -7,7 +7,7 @@
     <title>Beranda</title>
     @vite('resources/css/app.css')
 </head>
-<body >
+<body id="home">
     <div class="relative bg-[#060606]">
       <x-navbar/>
       {{-- HERO --}}
