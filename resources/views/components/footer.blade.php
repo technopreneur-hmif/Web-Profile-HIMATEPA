@@ -1,4 +1,4 @@
-<div class="bg-gradient-to-r  from-[#060606]/0 from-10% via-[#C9A840] via-50% to-[#060606] to-90% pt-[1px]">
+<div class="bg-gradient-to-r  from-[#060606]/0 from-10% via-[#C9A840] via-50% to-[#060606]/0 to-90% pt-[1px]">
   <footer class="font-nunito px-[82px] bg-[#060606] flex flex-col h-full w-full">
     <div class="pt-[46px] flex justify-between pb-[71px] border-b-[0.5px] border-[#BFB9A5]">
       <div class="flex flex-col gap-[8px]">
